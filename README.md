@@ -1,1 +1,1 @@
-# **Logal LLM Agent Environment**
+# Pack of my agents research
